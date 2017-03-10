@@ -6,7 +6,7 @@
   * Выбрать Git -> Projects from Git. Нажать Next;
   * Выбрать Clone Uri. Нажать Next;
   * В поле Uri скопировать url репозитория(HTTPS). Для первого задания: https://github.com/QMFQA/Task1.git.
-  * Заполнить поля User/Password. Нажать Next;
+  * Заполнить поля User/Password. Выбрать Store in Secure Store. Нажать Next;
   * На странице Branch Selection выбрать только ветку master. Нажать Next;
   * Выбрать директорию, где будут храниться локальные репозитории. Нажать Next
   * Выбрать пункт Import existing Eclipse projects. Нажать Next, затем Finish.
